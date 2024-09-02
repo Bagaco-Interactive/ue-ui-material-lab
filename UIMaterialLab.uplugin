@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UIMaterialLab",
+	"Description": "A collection of Material Functions and techniques to build UI materials in an intuitive way, with usage examples and practical applications.",
+	"Category": "Other",
+	"CreatedBy": "Epic Games",
+	"CreatedByURL": "https://github.com/Bagaco-Interactive/ue-ui-material-lab",
+	"DocsURL": "",
+	"MarketplaceURL": "https://www.unrealengine.com/marketplace/en-US/product/ui-material-lab",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
